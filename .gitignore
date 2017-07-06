@@ -1,0 +1,6 @@
+/vendor
+.env
+app/config/database.php
+composer.lock
+composer.json
+vendor 

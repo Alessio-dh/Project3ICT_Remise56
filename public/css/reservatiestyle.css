@@ -1,0 +1,22 @@
+/*body {*/
+	/*font-family: Arial, Helvetica, sans-serif;*/
+/*}*/
+
+/*table {*/
+	/*font-size: 1em;*/
+/*}*/
+
+.ui-draggable, .ui-droppable {
+	background-position: top;
+}
+#datepicker-container{
+	text-align:center;
+}
+#datepicker-center{
+	display:inline-block;
+	margin:0 auto;
+}
+textarea {
+	resize: none;
+}
+
